@@ -12,6 +12,8 @@ Buetes, E., Jordan-Lopez, M., Lopez-Roldan, A., D’Auria, G., Martinez-Priego, 
 
 Chattaway, M., Langridge, G. C., & Wain, J. (2021). *Salmonella* nomenclature in the genomic era: a time for change. *Scientific Reports*, *11*, 7494. https://doi.org/10.1038/s41598-021-86243-w
 
+Freire, B., Ladra, S., & Parama, J. R. (2022). Memory-Efficient Assembly Using Flye. *IEEE/ACM Transactions on Computational Biology and Bioinformatics*, *19*:6, 3564-3577. https://doi.org/ 10.1109/TCBB.2021.3108843
+
 Kolmogorov, M., Yuan, J., Lin, Y., & Pevzner, P. A. (2019). Assembly of long, error-prone reads using repeat graphs. *Nature Biotechnology*, *37*, 540-546. https://doi.org/10.1038/s41587-019-0072-8
 
 Lamas, A., Garrido-Maestu, A., Prieto, A., Cepeda, A., & Franco, C. M. (2023). Whole genome sequencing in the palm of your hand: how to implement a MinION Galaxy-based workflow in a food safety laboratory for rapid Salmonella spp. serotyping, virulence, and antimicrobial resistance gene identification. *Frontiers in Microbiology*, *14*:1254692. https://doi.org/10.3389/fmicb.2023.1254692
