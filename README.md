@@ -28,6 +28,8 @@ Land, M., Hauser, L., Jun, S. R., Nookaew, I., Leuze, M. R., Ahn, T. K., Karpine
 
 Luan, T., Commichaux, S., Hoffmann, M., Jayeola, V., Jang, J. H., Pop, M., Rand, H., & Luo, Y. (2024). Benchmarking short and long read polishing tools for nanopore assemblies: achieving near-perfect genomes for outbreak isolates. *BMC Genomics*, *25*, 679. https://doi.org/10.1186/s12864-024-10582-x
 
+Mikheenko, A., Gurevich, A., Savelyev, V., Vyahhi, N., Cokelaer, T., Komissarov, A., Lebedeva, E., Turischeva, P., Jackman, S., Ziemski, M., Kleschin, A., & Rossini, R. (2024). quast. https://github.com/ablab/quast
+
 NCBI. (2023). WGS of Salmonella enterica isolate (SRR32410565). *NCBI*. https://trace.ncbi.nlm.nih.gov/Traces/?run=SRR32410565
 
 Oehler, J. B., Wright, H., Stark, Z., Mallett, A. J., & Schmitz, U. (2023). The application of long-read sequencing in clinical settings. *Human Genomics*, *17*, 73. https://doi.org/10.1186/s40246-023-00522-3
