@@ -12,6 +12,8 @@ Buetes, E., Jordan-Lopez, M., Lopez-Roldan, A., D’Auria, G., Martinez-Priego, 
 
 Chattaway, M., Langridge, G. C., & Wain, J. (2021). *Salmonella* nomenclature in the genomic era: a time for change. *Scientific Reports*, *11*, 7494. https://doi.org/10.1038/s41598-021-86243-w
 
+Kolmogorov, M., Yuan, J., Lin, Y., & Pevzner, P. A. (2019). Assembly of long, error-prone reads using repeat graphs. *Nature Biotechnology*, 37, 540-546. https://doi.org/10.1038/s41587-019-0072-8
+
 Land, M., Hauser, L., Jun, S. R., Nookaew, I., Leuze, M. R., Ahn, T. K., Karpinets, T., Lund, O., Kora, G., Wassenaar, T., Poudel, S., & Ussery, D. W. (2015). Insights from 20 years of bacterial genome sequencing. *Functional & Integrative Genomics*, *15*, 141-161. https://doi.org/10.1007/s10142-015-0433-4
 
 NCBI. (2023). WGS of Salmonella enterica isolate (SRR32410565). *NCBI*. https://trace.ncbi.nlm.nih.gov/Traces/?run=SRR32410565
