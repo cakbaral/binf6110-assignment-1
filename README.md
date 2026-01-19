@@ -8,18 +8,18 @@ Bacterial genome assembly has been recognized as an essential milestone for rese
 ## Proposed Methods
 
 ## References
-Buetes, E., Jordan-Lopez, M., Lopez-Roldan, A., D’Auria, G., Martinez-Priego, L., De Marco, G., Carda-Dieguez, & Mira, A. (2024). Full-length 16S rRNA gene sequencing by PacBio improves taxonomic resolution in human microbiome samples. BMC Genomics, 25, 310. https://doi.org/10.1186/s12864-024-10213-5
+Buetes, E., Jordan-Lopez, M., Lopez-Roldan, A., D’Auria, G., Martinez-Priego, L., De Marco, G., Carda-Dieguez, & Mira, A. (2024). Full-length 16S rRNA gene sequencing by PacBio improves taxonomic resolution in human microbiome samples. *BMC Genomics*, *25*, 310. https://doi.org/10.1186/s12864-024-10213-5
 
-Chattaway, M., Langridge, G. C., & Wain, J. (2021). Salmonella nomenclature in the genomic era: a time for change. Scientific Reports, 11, 7494. https://doi.org/10.1038/s41598-021-86243-w
+Chattaway, M., Langridge, G. C., & Wain, J. (2021). *Salmonella* nomenclature in the genomic era: a time for change. *Scientific Reports*, *11*, 7494. https://doi.org/10.1038/s41598-021-86243-w
 
-Land, M., Hauser, L., Jun, S. R., Nookaew, I., Leuze, M. R., Ahn, T. K., Karpinets, T., Lund, O., Kora, G., Wassenaar, T., Poudel, S., & Ussery, D. W. (2015). Insights from 20 years of bacterial genome sequencing. Functional & Integrative Genomics, 15, 141-161. https://doi.org/10.1007/s10142-015-0433-4
+Land, M., Hauser, L., Jun, S. R., Nookaew, I., Leuze, M. R., Ahn, T. K., Karpinets, T., Lund, O., Kora, G., Wassenaar, T., Poudel, S., & Ussery, D. W. (2015). Insights from 20 years of bacterial genome sequencing. *Functional & Integrative Genomics*, *15*, 141-161. https://doi.org/10.1007/s10142-015-0433-4
 
-Oehler, J. B., Wright, H., Stark, Z., Mallett, A. J., & Schmitz, U. (2023). The application of long-read sequencing in clinical settings. Human Genomics, 17, 73. https://doi.org/10.1186/s40246-023-00522-3
+Oehler, J. B., Wright, H., Stark, Z., Mallett, A. J., & Schmitz, U. (2023). The application of long-read sequencing in clinical settings. *Human Genomics*, *17*, 73. https://doi.org/10.1186/s40246-023-00522-3
 
-Sereika, M., Kirkegaard, R. H., Karst, S. M., Michaelsen, T. Y., Sorenson, E. A., Wollenberg, R. M., & Albertsen, M. (2022). Oxford Nanopore R10.4 long-read sequencing enables the generation of near-finished bacterial genomes from pure cultures and metagenomes without short-read or reference polishing. Nature Methods, 19, 823-826. https://doi.org/10.1038/s41592-022-01539-7
+Sereika, M., Kirkegaard, R. H., Karst, S. M., Michaelsen, T. Y., Sorenson, E. A., Wollenberg, R. M., & Albertsen, M. (2022). Oxford Nanopore R10.4 long-read sequencing enables the generation of near-finished bacterial genomes from pure cultures and metagenomes without short-read or reference polishing. *Nature Methods*, *19*, 823-826. https://doi.org/10.1038/s41592-022-01539-7
 
-Thomas, C., Methner, U., Marz, M., & Linde, J. (2023). Oxford nanopore technologies—a valuable tool to generate whole-genome sequencing data for in silico serotyping and the detection of genetic markers in Salmonella. Frontiers in Veterinary Science, 10, 1178922. https://doi.org/10.3389/fvets.2023.1178922
+Thomas, C., Methner, U., Marz, M., & Linde, J. (2023). Oxford nanopore technologies—a valuable tool to generate whole-genome sequencing data for *in silico* serotyping and the detection of genetic markers in *Salmonella*. *Frontiers in Veterinary Science*, *10*, 1178922. https://doi.org/10.3389/fvets.2023.1178922
 
-Worley, J., Meng, J., Allard, M. W., Brown, E. W., & Timme, R. E. (2018). Salmonella enterica Phylogeny Based on Whole-Genome Sequencing Reveals Two New Clades and Novel Patterns of Horizontally Acquired Genetic Elements. ASM Journals, 9:10.1128. https://doi.org/10.1128/mbio.02303-18
+Worley, J., Meng, J., Allard, M. W., Brown, E. W., & Timme, R. E. (2018). Salmonella enterica Phylogeny Based on Whole-Genome Sequencing Reveals Two New Clades and Novel Patterns of Horizontally Acquired Genetic Elements. *ASM Journals*, *9*:10.1128. https://doi.org/10.1128/mbio.02303-18
 
-Zhang, P., Jiang, D., Wang, Y., Yao, X., Luo, Y., & Yang, Z. (2021). Comparison of De Novo Assembly Strategies for Bacterial Genomes. International Journal of Molecular Sciences, 22(14), 7668. https://doi.org/10.3390/ijms22147668
+Zhang, P., Jiang, D., Wang, Y., Yao, X., Luo, Y., & Yang, Z. (2021). Comparison of De Novo Assembly Strategies for Bacterial Genomes. *International Journal of Molecular Sciences*, *22*(14), 7668. https://doi.org/10.3390/ijms22147668
