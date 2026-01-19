@@ -14,6 +14,8 @@ Chattaway, M., Langridge, G. C., & Wain, J. (2021). *Salmonella* nomenclature in
 
 Land, M., Hauser, L., Jun, S. R., Nookaew, I., Leuze, M. R., Ahn, T. K., Karpinets, T., Lund, O., Kora, G., Wassenaar, T., Poudel, S., & Ussery, D. W. (2015). Insights from 20 years of bacterial genome sequencing. *Functional & Integrative Genomics*, *15*, 141-161. https://doi.org/10.1007/s10142-015-0433-4
 
+NCBI. (2023). WGS of Salmonella enterica isolate (SRR32410565). *NCBI*. https://trace.ncbi.nlm.nih.gov/Traces/?run=SRR32410565
+
 Oehler, J. B., Wright, H., Stark, Z., Mallett, A. J., & Schmitz, U. (2023). The application of long-read sequencing in clinical settings. *Human Genomics*, *17*, 73. https://doi.org/10.1186/s40246-023-00522-3
 
 Sereika, M., Kirkegaard, R. H., Karst, S. M., Michaelsen, T. Y., Sorenson, E. A., Wollenberg, R. M., & Albertsen, M. (2022). Oxford Nanopore R10.4 long-read sequencing enables the generation of near-finished bacterial genomes from pure cultures and metagenomes without short-read or reference polishing. *Nature Methods*, *19*, 823-826. https://doi.org/10.1038/s41592-022-01539-7
