@@ -21,7 +21,7 @@ Freire, B., Ladra, S., & Parama, J. R. (2022). Memory-Efficient Assembly Using F
 
 Gurevich, A., Saveliev, V., Vyahhi, N., & Tesler, G. (2013). QUAST: quality assessment tool for genome assemblies. *Bioinformatics*, *29*(8), 1072-1075. https://doi.org/10.1093/bioinformatics/btt086
 
-IGV Desktop Application. IGV version 2.19.7. https://igv.org/doc/desktop/#DownloadPage/
+IGV Desktop Application. (n.d.) IGV version 2.19.7. https://igv.org/doc/desktop/#DownloadPage/
 
 Kolmogorov, M., Yuan, J., Lin, Y., & Pevzner, P. A. (2019). Assembly of long, error-prone reads using repeat graphs. *Nature Biotechnology*, *37*, 540-546. https://doi.org/10.1038/s41587-019-0072-8
 
