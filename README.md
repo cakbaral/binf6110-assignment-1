@@ -8,6 +8,8 @@ Bacterial genome assembly has been recognized as an essential milestone for rese
 ## References
 Buetes, E., Jordan-Lopez, M., Lopez-Roldan, A., D’Auria, G., Martinez-Priego, L., De Marco, G., Carda-Dieguez, & Mira, A. (2024). Full-length 16S rRNA gene sequencing by PacBio improves taxonomic resolution in human microbiome samples. BMC Genomics, 25, 310. https://doi.org/10.1186/s12864-024-10213-5
 
+Chattaway, M., Langridge, G. C., & Wain, J. (2021). Salmonella nomenclature in the genomic era: a time for change. Scientific Reports, 11, 7494. https://doi.org/10.1038/s41598-021-86243-w
+
 Land, M., Hauser, L., Jun, S. R., Nookaew, I., Leuze, M. R., Ahn, T. K., Karpinets, T., Lund, O., Kora, G., Wassenaar, T., Poudel, S., & Ussery, D. W. (2015). Insights from 20 years of bacterial genome sequencing. Functional & Integrative Genomics, 15, 141-161. https://doi.org/10.1007/s10142-015-0433-4
 
 Oehler, J. B., Wright, H., Stark, Z., Mallett, A. J., & Schmitz, U. (2023). The application of long-read sequencing in clinical settings. Human Genomics, 17, 73. https://doi.org/10.1186/s40246-023-00522-3
