@@ -26,6 +26,8 @@ Lamas, A., Garrido-Maestu, A., Prieto, A., Cepeda, A., & Franco, C. M. (2023). W
 
 Land, M., Hauser, L., Jun, S. R., Nookaew, I., Leuze, M. R., Ahn, T. K., Karpinets, T., Lund, O., Kora, G., Wassenaar, T., Poudel, S., & Ussery, D. W. (2015). Insights from 20 years of bacterial genome sequencing. *Functional & Integrative Genomics*, *15*, 141-161. https://doi.org/10.1007/s10142-015-0433-4
 
+Li, H., et al. (2025). minimap2. https://github.com/lh3/minimap2
+
 Luan, T., Commichaux, S., Hoffmann, M., Jayeola, V., Jang, J. H., Pop, M., Rand, H., & Luo, Y. (2024). Benchmarking short and long read polishing tools for nanopore assemblies: achieving near-perfect genomes for outbreak isolates. *BMC Genomics*, *25*, 679. https://doi.org/10.1186/s12864-024-10582-x
 
 Mikheenko, A., Gurevich, A., Savelyev, V., Vyahhi, N., Cokelaer, T., Komissarov, A., Lebedeva, E., Turischeva, P., Jackman, S., Ziemski, M., Kleschin, A., & Rossini, R. (2024). quast. https://github.com/ablab/quast
