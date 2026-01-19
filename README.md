@@ -10,6 +10,8 @@ In this analysis, the goal was to assemble and align a consensus genome from ONT
 ## Proposed Methods
 
 ## References
+Anaconda. (n.d.). medaka. https://anaconda.org/channels/bioconda/packages/medaka/overview
+
 Buetes, E., Jordan-Lopez, M., Lopez-Roldan, A., D’Auria, G., Martinez-Priego, L., De Marco, G., Carda-Dieguez, & Mira, A. (2024). Full-length 16S rRNA gene sequencing by PacBio improves taxonomic resolution in human microbiome samples. *BMC Genomics*, *25*, 310. https://doi.org/10.1186/s12864-024-10213-5
 
 Chattaway, M., Langridge, G. C., & Wain, J. (2021). *Salmonella* nomenclature in the genomic era: a time for change. *Scientific Reports*, *11*, 7494. https://doi.org/10.1038/s41598-021-86243-w
