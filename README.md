@@ -16,4 +16,6 @@ Oehler, J. B., Wright, H., Stark, Z., Mallett, A. J., & Schmitz, U. (2023). The 
 
 Sereika, M., Kirkegaard, R. H., Karst, S. M., Michaelsen, T. Y., Sorenson, E. A., Wollenberg, R. M., & Albertsen, M. (2022). Oxford Nanopore R10.4 long-read sequencing enables the generation of near-finished bacterial genomes from pure cultures and metagenomes without short-read or reference polishing. Nature Methods, 19, 823-826. https://doi.org/10.1038/s41592-022-01539-7
 
+Thomas, C., Methner, U., Marz, M., & Linde, J. (2023). Oxford nanopore technologies—a valuable tool to generate whole-genome sequencing data for in silico serotyping and the detection of genetic markers in Salmonella. Frontiers in Veterinary Science, 10, 1178922. https://doi.org/10.3389/fvets.2023.1178922
+
 Zhang, P., Jiang, D., Wang, Y., Yao, X., Luo, Y., & Yang, Z. (2021). Comparison of De Novo Assembly Strategies for Bacterial Genomes. International Journal of Molecular Sciences, 22(14), 7668. https://doi.org/10.3390/ijms22147668
