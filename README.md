@@ -49,3 +49,5 @@ Thomas, C., Methner, U., Marz, M., & Linde, J. (2023). Oxford nanopore technolog
 
 Worley, J., Meng, J., Allard, M. W., Brown, E. W., & Timme, R. E. (2018). Salmonella enterica Phylogeny Based on Whole-Genome Sequencing Reveals Two New Clades and Novel Patterns of Horizontally Acquired Genetic Elements. *ASM Journals*, *9*:10.1128. https://doi.org/10.1128/mbio.02303-18
 Zhang, P., Jiang, D., Wang, Y., Yao, X., Luo, Y., & Yang, Z. (2021). Comparison of De Novo Assembly Strategies for Bacterial Genomes. *International Journal of Molecular Sciences*, *22*(14), 7668. https://doi.org/10.3390/ijms22147668
+
+Zhang, P., Jiang, D., Wang, Y., Yao, X., Luo, Y., & Yang, Z. (2021). Comparison of De Novo Assembly Strategies for Bacterial Genomes. International Journal of Molecular Sciences, 22(14), 7668. https://doi.org/10.3390/ijms22147668
