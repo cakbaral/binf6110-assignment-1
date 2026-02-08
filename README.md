@@ -19,7 +19,7 @@ Chattaway, M., Langridge, G. C., & Wain, J. (2021). *Salmonella* nomenclature in
 
 Freire, B., Ladra, S., & Parama, J. R. (2022). Memory-Efficient Assembly Using Flye. *IEEE/ACM Transactions on Computational Biology and Bioinformatics*, *19*:6, 3564-3577. https://doi.org/10.1109/TCBB.2021.3108843
 
-Grant, J. R., Enns, E., Marinier, E., Mandal, A., Herman, E. K., Chen, C. Y., Graham, M., Van Domselaar, G., & Stothard, P. (2023). Proksee: in-depth characterization and visualization of bacterial genomes. Nucleic Acids Research, 51(W1), W484–W492. https://doi.org/10.1093/nar/gkad326
+Grant, J. R., Enns, E., Marinier, E., Mandal, A., Herman, E. K., Chen, C. Y., Graham, M., Van Domselaar, G., & Stothard, P. (2023). Proksee: in-depth characterization and visualization of bacterial genomes. *Nucleic Acids Research*, *51*(W1), W484–W492. https://doi.org/10.1093/nar/gkad326
 
 Gurevich, A., Saveliev, V., Vyahhi, N., & Tesler, G. (2013). QUAST: quality assessment tool for genome assemblies. *Bioinformatics*, *29*(8), 1072-1075. https://doi.org/10.1093/bioinformatics/btt086
 
@@ -31,7 +31,7 @@ Lamas, A., Garrido-Maestu, A., Prieto, A., Cepeda, A., & Franco, C. M. (2023). W
 
 Land, M., Hauser, L., Jun, S. R., Nookaew, I., Leuze, M. R., Ahn, T. K., Karpinets, T., Lund, O., Kora, G., Wassenaar, T., Poudel, S., & Ussery, D. W. (2015). Insights from 20 years of bacterial genome sequencing. *Functional & Integrative Genomics*, *15*, 141-161. https://doi.org/10.1007/s10142-015-0433-4
 
-Li H. (2018). Minimap2: pairwise alignment for nucleotide sequences. Bioinformatics (Oxford, England), 34(18), 3094–3100. https://doi.org/10.1093/bioinformatics/bty191
+Li H. (2018). Minimap2: pairwise alignment for nucleotide sequences. *Bioinformatics*, *34*(18), 3094–3100. https://doi.org/10.1093/bioinformatics/bty191
 
 Li, H., Handsaker, B., Wysoker, A., Fennell, T., Ruan, J., Homer, N., Marth, G., Abecasis, G., Durbin, R., & 1000 Genome Project Data Processing Subgroup. (2009). The Sequence Alignment/Map format and SAMtools. Bioinformatics, 25(16), 2078-2079. https://doi.org/10.1093/bioinformatics/btp352
 
@@ -47,16 +47,16 @@ Oehler, J. B., Wright, H., Stark, Z., Mallett, A. J., & Schmitz, U. (2023). The 
 
 Oxford Nanopore Technologies Ltd. (2018). Medaka. https://github.com/nanoporetech/medaka/blob/v2.1.1/README.md
 
-Robinson, J. T., Thorvaldsdóttir, H., Winckler, W., Guttman, M., Lander, E. S., Getz, G., & Mesirov, J. P. (2011). Integrative genomics viewer. Nature Biotechnology, 29(1), 24–26. https://doi.org/10.1038/nbt.1754
+Robinson, J. T., Thorvaldsdóttir, H., Winckler, W., Guttman, M., Lander, E. S., Getz, G., & Mesirov, J. P. (2011). Integrative genomics viewer. *Nature Biotechnology*, *29*(1), 24–26. https://doi.org/10.1038/nbt.1754
 
 SAMtools (v1.2.3). n.d. https://www.htslib.org/download/
 
 Sereika, M., Kirkegaard, R. H., Karst, S. M., Michaelsen, T. Y., Sorenson, E. A., Wollenberg, R. M., & Albertsen, M. (2022). Oxford Nanopore R10.4 long-read sequencing enables the generation of near-finished bacterial genomes from pure cultures and metagenomes without short-read or reference polishing. *Nature Methods*, *19*, 823-826. https://doi.org/10.1038/s41592-022-01539-7
 
-Shen, W., Le, S., & Hu, F. (2016). SeqKit: A Cross-Platform and Ultrafast Toolkit for FASTA/Q File Manipulation. PLOS One, 11(10), e0163962. https://doi.org/10.1371/journal.pone.0163962
+Shen, W., Le, S., & Hu, F. (2016). SeqKit: A Cross-Platform and Ultrafast Toolkit for FASTA/Q File Manipulation. *PLOS One*, *11*(10), e0163962. https://doi.org/10.1371/journal.pone.0163962
 
 Thomas, C., Methner, U., Marz, M., & Linde, J. (2023). Oxford nanopore technologies—a valuable tool to generate whole-genome sequencing data for *in silico* serotyping and the detection of genetic markers in *Salmonella*. *Frontiers in Veterinary Science*, *10*, 1178922. https://doi.org/10.3389/fvets.2023.1178922
 
 Worley, J., Meng, J., Allard, M. W., Brown, E. W., & Timme, R. E. (2018). Salmonella enterica Phylogeny Based on Whole-Genome Sequencing Reveals Two New Clades and Novel Patterns of Horizontally Acquired Genetic Elements. *ASM Journals*, *9*:10.1128. https://doi.org/10.1128/mbio.02303-18
 
-Zhang, P., Jiang, D., Wang, Y., Yao, X., Luo, Y., & Yang, Z. (2021). Comparison of De Novo Assembly Strategies for Bacterial Genomes. International Journal of Molecular Sciences, 22(14), 7668. https://doi.org/10.3390/ijms22147668
+Zhang, P., Jiang, D., Wang, Y., Yao, X., Luo, Y., & Yang, Z. (2021). Comparison of De Novo Assembly Strategies for Bacterial Genomes. *International Journal of Molecular Sciences*, *22*(14), 7668. https://doi.org/10.3390/ijms22147668
