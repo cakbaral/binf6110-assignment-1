@@ -32,6 +32,8 @@ Gurevich, A., Saveliev, V., Vyahhi, N., & Tesler, G. (2013). QUAST: quality asse
 
 IGV Desktop Application. (n.d.) IGV version 2.19.7. https://igv.org/doc/desktop/#DownloadPage/
 
+Johansson, M. H. K., Bortolaia, V., Tansirichaiya, S., Aarestrup, F. M., Roberts, A. P., & Petersen, T. N. (2020). Detection of mobile genetic elements associated with antibiotic resistance in Salmonella enterica using a newly developed web tool: MobileElementFinder. Journal of Antimicrobial Chemotherapy, 76(1), 101-109. https://doi.org/10.1093/jac/dkaa390
+
 Kolmogorov, M., Yuan, J., Lin, Y., & Pevzner, P. A. (2019). Assembly of long, error-prone reads using repeat graphs. *Nature Biotechnology*, *37*, 540-546. https://doi.org/10.1038/s41587-019-0072-8
 
 Kurtzer, G. M., Sochat, V., & Bauer, M. W. (2017). Singularity: Scientific containers for mobility of compute. *PLOS One*, *12*(5), e0177459. https://doi.org/10.1371/journal.pone.0177459
