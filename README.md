@@ -68,6 +68,8 @@ Shen, W., Le, S., & Hu, F. (2016). SeqKit: A Cross-Platform and Ultrafast Toolki
 
 Thomas, C., Methner, U., Marz, M., & Linde, J. (2023). Oxford nanopore technologies—a valuable tool to generate whole-genome sequencing data for *in silico* serotyping and the detection of genetic markers in *Salmonella*. *Frontiers in Veterinary Science*, *10*, 1178922. https://doi.org/10.3389/fvets.2023.1178922
 
+Treangan, T. J. & Salzberg, S. L. (2011). Repetitive DNA and next-generation sequencing: computational challenges and solutions. *Nature Reviews Genetics*, *13*, 36-46.
+
 Worley, J., Meng, J., Allard, M. W., Brown, E. W., & Timme, R. E. (2018). Salmonella enterica Phylogeny Based on Whole-Genome Sequencing Reveals Two New Clades and Novel Patterns of Horizontally Acquired Genetic Elements. *ASM Journals*, *9*:10.1128. https://doi.org/10.1128/mbio.02303-18
 
 Zhang, P., Jiang, D., Wang, Y., Yao, X., Luo, Y., & Yang, Z. (2021). Comparison of De Novo Assembly Strategies for Bacterial Genomes. *International Journal of Molecular Sciences*, *22*(14), 7668. https://doi.org/10.3390/ijms22147668
