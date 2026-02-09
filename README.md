@@ -22,6 +22,8 @@ When looking back at the widespread abundance of SNPs in the chromosome from var
 
 
 ## References
+Amavisit, P., Lightfoot, D., Browning, G. F., & Markham, P. F. (2003). Variation between Pathogenic Serovars within Salmonella Pathogenicity Islands. Journal of Bacteriology, 185, 12. https://doi.org/10.1128/jb.185.12.3624-3635.2003
+
 Anaconda. (n.d.). medaka. https://anaconda.org/channels/bioconda/packages/medaka/overview
 
 Buetes, E., Jordan-Lopez, M., Lopez-Roldan, A., D’Auria, G., Martinez-Priego, L., De Marco, G., Carda-Dieguez, & Mira, A. (2024). Full-length 16S rRNA gene sequencing by PacBio improves taxonomic resolution in human microbiome samples. *BMC Genomics*, *25*, 310. https://doi.org/10.1186/s12864-024-10213-5
