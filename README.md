@@ -32,6 +32,8 @@ IGV Desktop Application. (n.d.) IGV version 2.19.7. https://igv.org/doc/desktop/
 
 Kolmogorov, M., Yuan, J., Lin, Y., & Pevzner, P. A. (2019). Assembly of long, error-prone reads using repeat graphs. *Nature Biotechnology*, *37*, 540-546. https://doi.org/10.1038/s41587-019-0072-8
 
+Kurtzer, G. M., Sochat, V., & Bauer, M. W. (2017). Singularity: Scientific containers for mobility of compute. *PLOS One*, *12*(5), e0177459. https://doi.org/10.1371/journal.pone.0177459
+
 Lamas, A., Garrido-Maestu, A., Prieto, A., Cepeda, A., & Franco, C. M. (2023). Whole genome sequencing in the palm of your hand: how to implement a MinION Galaxy-based workflow in a food safety laboratory for rapid Salmonella spp. serotyping, virulence, and antimicrobial resistance gene identification. *Frontiers in Microbiology*, *14*:1254692. https://doi.org/10.3389/fmicb.2023.1254692
 
 Land, M., Hauser, L., Jun, S. R., Nookaew, I., Leuze, M. R., Ahn, T. K., Karpinets, T., Lund, O., Kora, G., Wassenaar, T., Poudel, S., & Ussery, D. W. (2015). Insights from 20 years of bacterial genome sequencing. *Functional & Integrative Genomics*, *15*, 141-161. https://doi.org/10.1007/s10142-015-0433-4
@@ -49,8 +51,6 @@ Mikheenko, A., Gurevich, A., Savelyev, V., Vyahhi, N., Cokelaer, T., Komissarov,
 NCBI. (2016). Genome assembly ASM694v2. https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000006945.2/
 
 NCBI. (2023). WGS of Salmonella enterica isolate (SRR32410565). *NCBI*. https://trace.ncbi.nlm.nih.gov/Traces/?run=SRR32410565
-
-https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000006945.2/
 
 Oehler, J. B., Wright, H., Stark, Z., Mallett, A. J., & Schmitz, U. (2023). The application of long-read sequencing in clinical settings. *Human Genomics*, *17*, 73. https://doi.org/10.1186/s40246-023-00522-3
 
