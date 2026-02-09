@@ -43,6 +43,8 @@ Lamas, A., Garrido-Maestu, A., Prieto, A., Cepeda, A., & Franco, C. M. (2023). W
 
 Land, M., Hauser, L., Jun, S. R., Nookaew, I., Leuze, M. R., Ahn, T. K., Karpinets, T., Lund, O., Kora, G., Wassenaar, T., Poudel, S., & Ussery, D. W. (2015). Insights from 20 years of bacterial genome sequencing. *Functional & Integrative Genomics*, *15*, 141-161. https://doi.org/10.1007/s10142-015-0433-4
 
+Leekitcharoenphon, P., Lukjancenko, O., Friis, C., Aarestrup, F. M., & Ussery, D. W. (2012). Genomic variation in *Salmonella enterica* core genes for epidemiological typing. *BMC Genomics*, *13*, 88. https://doi.org/10.1186/1471-2164-13-88
+
 Li H. (2018). Minimap2: pairwise alignment for nucleotide sequences. *Bioinformatics*, *34*(18), 3094–3100. https://doi.org/10.1093/bioinformatics/bty191
 
 Li, H., Handsaker, B., Wysoker, A., Fennell, T., Ruan, J., Homer, N., Marth, G., Abecasis, G., Durbin, R., & 1000 Genome Project Data Processing Subgroup. (2009). The Sequence Alignment/Map format and SAMtools. Bioinformatics, 25(16), 2078-2079. https://doi.org/10.1093/bioinformatics/btp352
@@ -75,7 +77,7 @@ Treangan, T. J. & Salzberg, S. L. (2011). Repetitive DNA and next-generation seq
 
 Worley, J., Meng, J., Allard, M. W., Brown, E. W., & Timme, R. E. (2018). Salmonella enterica Phylogeny Based on Whole-Genome Sequencing Reveals Two New Clades and Novel Patterns of Horizontally Acquired Genetic Elements. *ASM Journals*, *9*:10.1128. https://doi.org/10.1128/mbio.02303-18
 
-Zhang, P., Jiang, D., Wang, Y., Yao, X., Luo, Y., & Yang, Z. (2021). Comparison of De Novo Assembly Strategies for Bacterial Genomes. *International Journal of Molecular Sciences*, *22*(14), 7668. https://doi.org/10.3390/ijms22147668
+Zhang, P., Jiang, D., Wang, Y., Yao, X., Luo, Y., & Yang, Z. (2021). Comparison of *De Novo* Assembly Strategies for Bacterial Genomes. *International Journal of Molecular Sciences*, *22*(14), 7668. https://doi.org/10.3390/ijms22147668
 
 Zheng, Z., Yu, X., Chen, L., Lee, Y. L., Xin, C., Wong, A. O. K., Jain, M., Kesharwani, R. K., Sedlazeck, F. J., & Luo, R. (2025). Clair3-RNA: a deep learning-based small variant caller for long-read RNA sequencing data. Nature Communications, 16, 11553. https://doi.org/10.1038/s41467-025-67237-y
 
