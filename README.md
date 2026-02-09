@@ -78,3 +78,5 @@ Worley, J., Meng, J., Allard, M. W., Brown, E. W., & Timme, R. E. (2018). Salmon
 Zhang, P., Jiang, D., Wang, Y., Yao, X., Luo, Y., & Yang, Z. (2021). Comparison of De Novo Assembly Strategies for Bacterial Genomes. *International Journal of Molecular Sciences*, *22*(14), 7668. https://doi.org/10.3390/ijms22147668
 
 Zheng, Z., Yu, X., Chen, L., Lee, Y. L., Xin, C., Wong, A. O. K., Jain, M., Kesharwani, R. K., Sedlazeck, F. J., & Luo, R. (2025). Clair3-RNA: a deep learning-based small variant caller for long-read RNA sequencing data. Nature Communications, 16, 11553. https://doi.org/10.1038/s41467-025-67237-y
+
+Zuo, L., Zhou, L., Wu, C., Wang, Y., Li, Y., Huang, R., & Wu, S. (2020). *Salmonella spvC* Gene Inhibits Pyroptosis and Intestinal Inflammation to Aggravate Systemic Infection in Mice. *Frontiers in Microbiology*, *11*:562491. https://doi.org/10.3389/fmicb.2020.562491
