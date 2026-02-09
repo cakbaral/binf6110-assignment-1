@@ -33,6 +33,8 @@ Gurevich, A., Saveliev, V., Vyahhi, N., & Tesler, G. (2013). QUAST: quality asse
 
 IGV Desktop Application. (n.d.) IGV version 2.19.7. https://igv.org/doc/desktop/#DownloadPage/
 
+Jacobsen, A., Hendriksen, R. S., Aarestrup, F. M., Ussery, D. M., & Friis, C. (2011). The *Salmonella enterica* Pan-genome. *Microbial Ecology*, *62*, 487-504. https://doi.org/10.1007/s00248-011-9880-1
+
 Johansson, M. H. K., Bortolaia, V., Tansirichaiya, S., Aarestrup, F. M., Roberts, A. P., & Petersen, T. N. (2020). Detection of mobile genetic elements associated with antibiotic resistance in Salmonella enterica using a newly developed web tool: MobileElementFinder. *Journal of Antimicrobial Chemotherapy*, *76*(1), 101-109. https://doi.org/10.1093/jac/dkaa390
 
 Kolmogorov, M., Yuan, J., Lin, Y., & Pevzner, P. A. (2019). Assembly of long, error-prone reads using repeat graphs. *Nature Biotechnology*, *37*, 540-546. https://doi.org/10.1038/s41587-019-0072-8
