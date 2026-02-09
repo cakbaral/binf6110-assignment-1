@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Session genome="\\wsl.localhost\Ubuntu\home\cakbarally\binf6110\assignment_1\GCA_000006945.2_ASM694v2_genomic.fna" locus="AE006468.2:7598-8736" version="8">
+    <Resources>
+        <Resource path="\\wsl.localhost\Ubuntu\home\cakbarally\binf6110\assignment_1\Salmonella_enterica_clair3_out\merge_output.vcf" type="vcf"/>
+        <Resource path="\\wsl.localhost\Ubuntu\home\cakbarally\binf6110\assignment_1\genomic.gtf" type="gtf"/>
+        <Resource path="\\wsl.localhost\Ubuntu\home\cakbarally\binf6110\assignment_1\read_vs_ref_sorted.bam" type="bam"/>
+    </Resources>
+    <Panel height="156" name="DataPanel" width="1517">
+        <Track attributeKey="merge_output.vcf" clazz="org.broad.igv.variant.VariantTrack" colorScale="ContinuousColorScale;0.0;446.0;255,255,255;0,0,178" displayMode="EXPANDED" fontSize="10" groupByStrand="false" id="\\wsl.localhost\Ubuntu\home\cakbarally\binf6110\assignment_1\Salmonella_enterica_clair3_out\merge_output.vcf" name="merge_output.vcf" siteColorMode="ALLELE_FREQUENCY" visible="true"/>
+    </Panel>
+    <Panel height="2506" name="Panel1770572470494" width="1517">
+        <Track attributeKey="read_vs_ref_sorted.bam Coverage" autoScale="true" clazz="org.broad.igv.sam.CoverageTrack" fontSize="10" id="\\wsl.localhost\Ubuntu\home\cakbarally\binf6110\assignment_1\read_vs_ref_sorted.bam_coverage" name="read_vs_ref_sorted.bam Coverage" snpThreshold="0.2" visible="true">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="161.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="read_vs_ref_sorted.bam Junctions" autoScale="true" clazz="org.broad.igv.sam.SpliceJunctionTrack" fontSize="10" groupByStrand="false" height="60" id="\\wsl.localhost\Ubuntu\home\cakbarally\binf6110\assignment_1\read_vs_ref_sorted.bam_junctions" maxdepth="50" name="read_vs_ref_sorted.bam Junctions" visible="false"/>
+        <Track attributeKey="read_vs_ref_sorted.bam" clazz="org.broad.igv.sam.AlignmentTrack" color="185,185,185" displayMode="EXPANDED" experimentType="THIRD_GEN" fontSize="10" id="\\wsl.localhost\Ubuntu\home\cakbarally\binf6110\assignment_1\read_vs_ref_sorted.bam" name="read_vs_ref_sorted.bam" visible="true">
+            <RenderOptions duplicatesOption="FILTER"/>
+        </Track>
+    </Panel>
+    <Panel height="156" name="FeaturePanel" width="1517">
+        <Track attributeKey="Reference sequence" clazz="org.broad.igv.track.SequenceTrack" fontSize="10" id="Reference sequence" name="Reference sequence" sequenceTranslationStrandValue="+" shouldShowTranslation="false" visible="true"/>
+        <Track attributeKey="genomic.gtf" clazz="org.broad.igv.track.FeatureTrack" colorScale="ContinuousColorScale;0.0;50.0;255,255,255;0,0,178" fontSize="10" groupByStrand="false" id="\\wsl.localhost\Ubuntu\home\cakbarally\binf6110\assignment_1\genomic.gtf" name="genomic.gtf" visible="true"/>
+    </Panel>
+    <PanelLayout dividerFractions="0.23372781065088757,0.7618343195266272"/>
+    <HiddenAttributes>
+        <Attribute name="DATA FILE"/>
+        <Attribute name="DATA TYPE"/>
+        <Attribute name="NAME"/>
+    </HiddenAttributes>
+</Session>
